@@ -4,6 +4,7 @@ This report provides an analysis of the Ford GoBike 2019 dataset, focusing on us
 demographics, trip durations, usage patterns, and demand trends. The goal is to derive actionable 
 insights that can be used to optimize the bike-sharing service and enhance user experience.
 ## Key Insights
+! [Dashboard]('dashboard.png')
 #### 1. Demographic Profile of Passengers:
 o Gender Distribution: 96% of the bike users are female, primarily within the age 
 range of 20-40 years. This shows a strong preference among women in this age
